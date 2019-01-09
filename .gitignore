@@ -1,0 +1,18 @@
+MyBot
+Makefile
+*.hlt
+*.log
+*~
+*.pyc
+*.pyo
+__pycache__/
+*.class
+*.ipr
+*.iws
+unused/batch
+unused/ConvexBot-Random v1.py
+unused/data-reader.py
+unused/daz.py
+unused/eltorothedeep.py
+unused/r3ap3rpy-bot.py
+unused/run_game
